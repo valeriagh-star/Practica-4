@@ -53,6 +53,12 @@
 
 ## Instrucciones para ejecutar las pruebas:
 
+- **Clonar el repositorio de github y moverse a la carpeta de la práctica 4:**
+
+  `git clone https://github.com/valeriagh-star/Practica-4.git`
+
+  `cd Practica-4`
+
 - **Ejecución de pruebas en Python (`pytest`):**
 
   `cd python`

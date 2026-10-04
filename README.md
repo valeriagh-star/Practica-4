@@ -8,7 +8,9 @@
 > * Pérez Megchun Pablo de Jesús
 
 > ### Breve descripción de la práctica:
-> Esta práctica consiste en diseñar, implementar y analizar una suite de pruebas unitarias para un sistema de cobro de estacionamiento que evalúa los minutos de permanencia, el tipo de cliente y si perdió el boleto. A partir del flujo de trabajo **Problema → Modelo → Casos → Pruebas ↔ Implementación** y el patrón *Arrange–Act–Assert*, las pruebas se estructuran desde la especificación formal y no solo desde el código. Esto permite identificar casos normales, fronteras y entradas inválidas, verificar excepciones y analizar los resultados para diferenciar objetivamente entre la aprobación de una prueba y la validez integral del programa.
+> <p align="justify">
+> Esta práctica consiste en diseñar, implementar y analizar una suite de pruebas unitarias para un sistema de cobro de estacionamiento que evalúa los minutos de permanencia, el tipo de cliente y si perdió el boleto. A partir del flujo de trabajo <b>Problema → Modelo → Casos → Pruebas ↔ Implementación</b> y el patrón <i>Arrange–Act–Assert</i>, las pruebas se estructuran desde la especificación formal y no solo desde el código. Esto permite identificar casos normales, fronteras y entradas inválidas, verificar excepciones y analizar los resultados para diferenciar objetivamente entre la aprobación de una prueba y la validez integral del programa.
+> </p>
 
 ---
 

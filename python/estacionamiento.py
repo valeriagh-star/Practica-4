@@ -28,7 +28,7 @@ class Estacionamiento:
         # R7: Más de 60 minutos cobra $15 por cada hora adicional iniciada
         else:
             horas_adicionales = math.ceil((minutos - 60) / 60)
-            total = 20.0 + (horas_adicionales * 15.0)
+            total = 20.0 + (horas_adicionales * 15.0) 
 
         # R8: Descuento del 10% para clientes frecuentes (si no se perdió el boleto)
         if tipo_cliente == "frecuente":

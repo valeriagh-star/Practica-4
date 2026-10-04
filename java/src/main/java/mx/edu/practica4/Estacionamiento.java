@@ -31,7 +31,7 @@ public class Estacionamiento {
             total = 20.0 + (horasAdicionales * 15.0);
         }
 
-        // R8: Descuento del 10%
+        // R8: Descuento del 10% 
         if ("frecuente".equals(tipoCliente)) {
             total *= 0.90;
         }

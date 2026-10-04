@@ -24,7 +24,7 @@ public class Estacionamiento {
         if (minutos <= 15) {
             total = 0.0;
         } else if (minutos <= 60) {
-            total = 20.0;
+            total = 20.0; 
         } else {
             // R7: Redondeo hacia arriba para horas adicionales iniciadas
             int horasAdicionales = (int) Math.ceil((minutos - 60) / 60.0);
